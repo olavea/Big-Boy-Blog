@@ -23,3 +23,8 @@ pnpm-debug.log*
 
 # Visual Studio Code
 .vscode
+
+# stuff
+
+localhost-key.pem
+localhost.pem
